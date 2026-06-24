@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Venkateshd2026/Java_Questions/tree/master/0607-sales-person) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
