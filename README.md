@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0027-remove-element) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
