@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Venkateshd2026/Java_Questions/tree/master/0007-reverse-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
