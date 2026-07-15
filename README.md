@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Venkateshd2026/Java_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Venkateshd2026/Java_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
