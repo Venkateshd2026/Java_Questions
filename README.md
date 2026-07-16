@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Venkateshd2026/Java_Questions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
