@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
