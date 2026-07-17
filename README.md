@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
+| [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
