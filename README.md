@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 ## Number Theory
 |  |
 | ------- |
