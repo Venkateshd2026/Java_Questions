@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
