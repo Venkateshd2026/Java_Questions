@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Venkateshd2026/Java_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Memoization
 |  |
 | ------- |
