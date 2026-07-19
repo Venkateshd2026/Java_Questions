@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Venkateshd2026/Java_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
