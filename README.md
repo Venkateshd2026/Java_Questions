@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Venkateshd2026/Java_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Venkateshd2026/Java_Questions/tree/master/0338-counting-bits) |
+| [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
