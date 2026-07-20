@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0605-can-place-flowers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Venkateshd2026/Java_Questions/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
