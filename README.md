@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
