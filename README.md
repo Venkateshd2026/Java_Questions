@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Venkateshd2026/Java_Questions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Venkateshd2026/Java_Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Venkateshd2026/Java_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
