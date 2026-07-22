@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Venkateshd2026/Java_Questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Venkateshd2026/Java_Questions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0063-unique-paths-ii) |
 ## Interactive
 |  |
 | ------- |
