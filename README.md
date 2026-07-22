@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Venkateshd2026/Java_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Venkateshd2026/Java_Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Venkateshd2026/Java_Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Venkateshd2026/Java_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Venkateshd2026/Java_Questions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Venkateshd2026/Java_Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
