@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Venkateshd2026/Java_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Venkateshd2026/Java_Questions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0063-unique-paths-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkateshd2026/Java_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Venkateshd2026/Java_Questions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Venkateshd2026/Java_Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
