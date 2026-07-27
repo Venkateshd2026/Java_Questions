@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
