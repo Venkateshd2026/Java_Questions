@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
