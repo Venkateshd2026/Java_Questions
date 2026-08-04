@@ -20,12 +20,9 @@ class Solution {
 
         HashSet<Integer> set = new HashSet<>();
 
-        // Add all numbers in the range
         for (int i = start; i <= end; i++) {
             set.add(i);
         }
-
-        // Remove numbers present in the array
         for (int num : nums) {
             set.remove(num);
         }
