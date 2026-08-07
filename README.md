@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Venkateshd2026/Java_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Venkateshd2026/Java_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
