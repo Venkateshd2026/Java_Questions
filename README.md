@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Venkateshd2026/Java_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Venkateshd2026/Java_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0494-target-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Venkateshd2026/Java_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Venkateshd2026/Java_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
