@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Venkateshd2026/Java_Questions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Venkateshd2026/Java_Questions/tree/master/3731-find-missing-elements) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Venkateshd2026/Java_Questions/tree/master/1818-minimum-absolute-sum-difference) |
