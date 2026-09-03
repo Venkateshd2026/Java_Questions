@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/Venkateshd2026/Java_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Venkateshd2026/Java_Questions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Venkateshd2026/Java_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Venkateshd2026/Java_Questions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Venkateshd2026/Java_Questions/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
+| [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Venkateshd2026/Java_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Memoization
 |  |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0064-minimum-path-sum) |
+| [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 ## Interactive
 |  |
 | ------- |
