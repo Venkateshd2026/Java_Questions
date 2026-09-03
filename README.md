@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Venkateshd2026/Java_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Venkateshd2026/Java_Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Venkateshd2026/Java_Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
