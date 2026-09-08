@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Venkateshd2026/Java_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/Venkateshd2026/Java_Questions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/Venkateshd2026/Java_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/Venkateshd2026/Java_Questions/tree/master/0812-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/Venkateshd2026/Java_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -386,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Venkateshd2026/Java_Questions/tree/master/0881-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Venkateshd2026/Java_Questions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Venkateshd2026/Java_Questions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
