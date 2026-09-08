@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
 | [0932-beautiful-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0932-beautiful-array) |
+| [0942-di-string-match](https://github.com/Venkateshd2026/Java_Questions/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/Venkateshd2026/Java_Questions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Venkateshd2026/Java_Questions/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Venkateshd2026/Java_Questions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Venkateshd2026/Java_Questions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/Venkateshd2026/Java_Questions/tree/master/0942-di-string-match) |
 | [1092-shortest-common-supersequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Venkateshd2026/Java_Questions/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/Venkateshd2026/Java_Questions/tree/master/0942-di-string-match) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Venkateshd2026/Java_Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Venkateshd2026/Java_Questions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Trie
