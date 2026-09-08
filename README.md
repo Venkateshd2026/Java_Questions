@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Venkateshd2026/Java_Questions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Venkateshd2026/Java_Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Venkateshd2026/Java_Questions/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
