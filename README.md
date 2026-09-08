@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Venkateshd2026/Java_Questions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Venkateshd2026/Java_Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
