@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Venkateshd2026/Java_Questions/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
+| [0504-base-7](https://github.com/Venkateshd2026/Java_Questions/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Venkateshd2026/Java_Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0680-valid-palindrome-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/Venkateshd2026/Java_Questions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Venkateshd2026/Java_Questions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
