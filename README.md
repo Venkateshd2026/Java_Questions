@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Venkateshd2026/Java_Questions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Venkateshd2026/Java_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Venkateshd2026/Java_Questions/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkateshd2026/Java_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
