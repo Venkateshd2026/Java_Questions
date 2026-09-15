@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Venkateshd2026/Java_Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Venkateshd2026/Java_Questions/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0697-degree-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Venkateshd2026/Java_Questions/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Venkateshd2026/Java_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0504-base-7](https://github.com/Venkateshd2026/Java_Questions/tree/master/0504-base-7) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Venkateshd2026/Java_Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Venkateshd2026/Java_Questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Venkateshd2026/Java_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
