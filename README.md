@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Venkateshd2026/Java_Questions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Venkateshd2026/Java_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Venkateshd2026/Java_Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Venkateshd2026/Java_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Venkateshd2026/Java_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Venkateshd2026/Java_Questions/tree/master/0322-coin-change) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Venkateshd2026/Java_Questions/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0697-degree-of-an-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Venkateshd2026/Java_Questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Venkateshd2026/Java_Questions/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Venkateshd2026/Java_Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Venkateshd2026/Java_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
