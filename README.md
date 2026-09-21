@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Venkateshd2026/Java_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Venkateshd2026/Java_Questions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/Venkateshd2026/Java_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [3524-find-x-value-of-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Venkateshd2026/Java_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Venkateshd2026/Java_Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
