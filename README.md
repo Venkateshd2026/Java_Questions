@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Venkateshd2026/Java_Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
 | [0932-beautiful-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0932-beautiful-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Venkateshd2026/Java_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Venkateshd2026/Java_Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Ordered Set
 |  |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Venkateshd2026/Java_Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Design
 |  |
@@ -441,4 +446,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Venkateshd2026/Java_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
