@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Venkateshd2026/Java_Questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Venkateshd2026/Java_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Venkateshd2026/Java_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/Venkateshd2026/Java_Questions/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/Venkateshd2026/Java_Questions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/Venkateshd2026/Java_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Venkateshd2026/Java_Questions/tree/master/0825-friends-of-appropriate-ages) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0697-degree-of-an-array) |
+| [0804-unique-morse-code-words](https://github.com/Venkateshd2026/Java_Questions/tree/master/0804-unique-morse-code-words) |
 | [0923-3sum-with-multiplicity](https://github.com/Venkateshd2026/Java_Questions/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkateshd2026/Java_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Venkateshd2026/Java_Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Venkateshd2026/Java_Questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Venkateshd2026/Java_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/Venkateshd2026/Java_Questions/tree/master/0784-letter-case-permutation) |
+| [0804-unique-morse-code-words](https://github.com/Venkateshd2026/Java_Questions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Venkateshd2026/Java_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Venkateshd2026/Java_Questions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Venkateshd2026/Java_Questions/tree/master/0917-reverse-only-letters) |
