@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Venkateshd2026/Java_Questions/tree/master/0942-di-string-match) |
 | [1092-shortest-common-supersequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Venkateshd2026/Java_Questions/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Venkateshd2026/Java_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Venkateshd2026/Java_Questions/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
