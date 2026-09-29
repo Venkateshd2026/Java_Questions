@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Venkateshd2026/Java_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/1668-maximum-repeating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Venkateshd2026/Java_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Venkateshd2026/Java_Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Venkateshd2026/Java_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/1668-maximum-repeating-substring) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Venkateshd2026/Java_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Venkateshd2026/Java_Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
