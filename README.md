@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Venkateshd2026/Java_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Venkateshd2026/Java_Questions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Venkateshd2026/Java_Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Venkateshd2026/Java_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Venkateshd2026/Java_Questions/tree/master/0072-edit-distance) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Venkateshd2026/Java_Questions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Venkateshd2026/Java_Questions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Venkateshd2026/Java_Questions/tree/master/0844-backspace-string-compare) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Venkateshd2026/Java_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
 |  |
